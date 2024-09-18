@@ -1,0 +1,21 @@
+Región: Region
+Región:  Metropolitana de Santiago
+ - Nombre: Casa del Sol, Descripción: Hermosa casa con jardín amplio y piscina.
+ - Nombre: Departamento Mirador, Descripción: Departamento con excelente vista al parque.
+ - Nombre: Loft Urbano, Descripción: Moderno loft en el centro de la ciudad.
+Región:  Maule
+Región:  Lib. Gral. Bernardo O'Higgins
+Región:  Biobío
+Región:  Valparaíso
+Región:  Tarapacá
+Región:  Ñuble
+Región:  Magallanes y Antártica Chilena
+Región:  Los Ríos
+Región:  Los Lagos
+Región:  La Araucanía
+Región:  Coquimbo
+Región:  Atacama
+Región:  Arica y Parinacota
+Región:  Antofagasta
+ - Nombre: Parcela de Agrado, Descripción: Gran terreno con casa rústica y árboles frutales.
+Región:  Aysén del General Carlos Ibáñez del Campo
